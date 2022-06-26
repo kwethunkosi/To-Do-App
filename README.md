@@ -10,29 +10,32 @@ A beginner level project created to learn and practice basic methods the webpage
 
 ## How to Use the Project 
 
-Step 1: Basic Structure of the Project
+### Step 1: Basic Structure of the Project
 Container for the app. Elements must be put inside the container which will then be the parent of the app.
+
 ![Screenshots!](images/HTML%20FORMS.png)
 
-Step 2: Creating Forms
+### Step 2: Creating Forms
 Create a form with a text input and a submit button.
+
 ![Screenshot!](images/FORMS.png)
 
-Step 3: Create a list of tasks  using an <ul> and element inside with class 'app'.
+### Step 3: Create a list of tasks  using an <ul> and element inside with class 'app'.
 This will not be inserted in HTML.
+
 ![screenshot!](images/List%20of%20tasks.png)
 
-Step 4: CSS and the use of flexbox
+### Step 4: CSS and the use of flexbox
 ![screenshot!](images/css%20styling.png)
 
-Step 5:Inserting Media Queries
+### Step 5:Inserting Media Queries
 ![screenshot!](images/Media%20queries.png)
 
-Step 6:Fonts
+### Step 6:Fonts
 I imported a google font as shown below
 ![screenshot!](images/Google%20fonts.png)
 
-Step 7: Javascript
+### Step 7: Javascript
 Tasks are loaded from local storage 
 ![screenshots!](images/Local%20storage.png)
 
