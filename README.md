@@ -6,4 +6,4 @@ A beginner level project created to learn and practice basic methods the webpage
 
 ## Final Project Visual
 
-![Final Project!](Complete App.png)
+![Screenshot!](images/Complete%20App.png)
