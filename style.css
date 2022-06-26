@@ -82,7 +82,8 @@
 }
 
 .check:checked {
-  background-color: rgb(39, 3, 39);
+  background-color: #fd095a;
+
 }
 
 .task {
